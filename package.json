@@ -14,7 +14,7 @@
     "favorites"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "baflow <rapatatui@gmail.com>",
   "type": "module",
   "pi": {
     "extensions": ["./index.ts"],

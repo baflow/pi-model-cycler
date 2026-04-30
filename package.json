@@ -1,7 +1,15 @@
 {
   "name": "pi-model-cycler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive model switcher for Pi coding agent — browse, search, favorite, and cycle models from the TUI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baflow/pi-model-cycler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baflow/pi-model-cycler/issues"
+  },
+  "homepage": "https://github.com/baflow/pi-model-cycler#readme",
   "keywords": [
     "pi-package",
     "pi",

@@ -41,7 +41,7 @@ Then restart Pi.
 
 ```bash
 # Clone or copy the extension directory
-git clone <repo-url> ~/.pi/agent/extensions/pi-model-cycler
+git clone https://github.com/baflow/pi-model-cycler.git ~/.pi/agent/extensions/pi-model-cycler
 ```
 
 Then restart Pi.

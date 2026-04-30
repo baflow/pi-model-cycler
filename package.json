@@ -1,0 +1,33 @@
+{
+  "name": "pi-model-cycler",
+  "version": "1.0.0",
+  "description": "Interactive model switcher for Pi coding agent — browse, search, favorite, and cycle models from the TUI",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-coding-agent",
+    "extension",
+    "model",
+    "switcher",
+    "selector",
+    "tui",
+    "favorites"
+  ],
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "pi": {
+    "extensions": ["./index.ts"],
+    "image": ""
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@mariozechner/pi-tui": "*"
+  },
+  "files": [
+    "index.ts",
+    "tsconfig.json",
+    "README.md",
+    "LICENSE"
+  ]
+}

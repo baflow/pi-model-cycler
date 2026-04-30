@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@mariozechner/pi-coding-agent": ["../../.nvm/versions/node/v24.15.0/lib/node_modules/@mariozechner/pi-coding-agent"],
+      "@mariozechner/pi-tui": ["../../.nvm/versions/node/v24.15.0/lib/node_modules/@mariozechner/pi-coding-agent/node_modules/@mariozechner/pi-tui"]
+    }
+  },
+  "include": ["index.ts"]
+}
